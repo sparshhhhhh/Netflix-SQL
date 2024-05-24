@@ -5,4 +5,6 @@
 3. How did age-certifications impact the dataset?
 4. Which genres are the most common?
 
+And many more queries...
+
 Dataset used - https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
